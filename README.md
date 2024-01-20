@@ -40,7 +40,7 @@ List any requirements or dependencies if applicable.
 Instructions for how to contribute to your project. Include guidelines for submitting issues and pull requests.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 Your contact information or additional resources.
