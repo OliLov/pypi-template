@@ -40,7 +40,7 @@ List any requirements or dependencies if applicable.
 Instructions for how to contribute to your project. Include guidelines for submitting issues and pull requests.
 
 ## License
-Specify your project's license here.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 Your contact information or additional resources.
